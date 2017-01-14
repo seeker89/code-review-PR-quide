@@ -36,10 +36,6 @@ __PR__ is a `github`-specific concept which means `pull request`. You can [read 
 
 > __PR is an UI for merging changes from one branch to another__, that allows discussion, pasting silly gifs, commenting on particular lines, and by doing that, documenting the change and the thinking behind for later (think onboarding a new person, or just refreshing your own memory).
 
-The looks something like this one this one:
-
-![](example_pr2.png)
-
 ### What code should go into a PR ?
 
 The scope of a __PR__ will depend vastly on the actual changes that you are implementing, the project etc, but here are some guidelines:
