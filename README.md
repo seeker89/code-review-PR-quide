@@ -82,4 +82,4 @@ Descriptions are written in Markdown, so they support all the goodies, like list
 
 Reviewing other people's code doesn't have to be boring, and __the review shouldn't take more than 30 minutes__ (including checking out the code, running the tests and playing around). If it does, your __PR__ is probably too big.
 
-Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the `![](https://i.giphy.com/kFgzrTt798d2w.gif` inline image tag, they can be really fun.
+Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the `![](https://i.giphy.com/kFgzrTt798d2w.gif)` inline image tag, they can be really fun.
