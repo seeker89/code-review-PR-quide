@@ -2,9 +2,9 @@
 
 ### TL;DR
 
-This guide guide is for people who'd like to spread good code review practices in their teams.
+This guide exists to help __spreading good code review practices in teams__.
 
-It aims to be a reference to show to your people, along with some good examples.
+It aims to be a reference to show to your team, along with some good examples.
 
 
 ## Table of contents
