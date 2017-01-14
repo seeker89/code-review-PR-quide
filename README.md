@@ -95,6 +95,10 @@ Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the
 
 ## How to review other people's code
 
+When reviewing someone else's code, you are in the position of power. They did their work, their code is now under a microscope, and all the weaknesses are now going under a hammer. __Be careful__ to not use that position to be overly negative. It will be your turn soon, so treat people the way you'd like to be treated. Don't make enemies.
+
+### Battlefield-proven techniques
+
 - __don't be a dick__. You're looking at someone's work, and you should assume they are capable and well-meaning. If they are a weaker developer than you are, wait until your code gets under a microscope of someone stronger than you.
 - __be humble__ - see point 1. The more you know, the more humble you get. 
 - __help people grow__. You are here to help them avoid mistakes in the future and improve the overall quality of the product. Don't prove you're smarter or know more. Lead by example.
@@ -110,6 +114,10 @@ Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the
 You might have noticed, that the first three points are very similar. I wonder what that might mean ?
 
 ## How to receive criticism and be more awesome
+
+In this situation, all of the little blibs and non-optimal solutions will be resurfacing, with your name attached to it. At the beginning it sounds little bit stressful, but here's a couple of guidelines to make it more manageable and fun:
+
+### Guidelines
 
 - __do your homework__ by prepping the PR properly (description, how to test, what's important to look at). Imagine a Michelin star restaurant meal vs a stale hamburger. No one flocks to dealing with your stale hamburger.
 - __don't hide in the corner__. Hiding dodgy bits in a big __PR__ is not a working technique. Unless your goal is to enrage your colleagues.
