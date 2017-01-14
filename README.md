@@ -129,6 +129,23 @@ In this situation, all of the little blibs and non-optimal solutions will be res
 
 ## Tips and tricks
 
+#### Close issues automatically, when merging a PR
+
+You can specify which issues should be closes when merging. To do that, just say in the description `Closes #12` or `Closes http://github.com/seeker89/code-review-PR-quide/issues/1`.
+
+#### Use inline gifs for fun and profit
+
+The syntax is the following: `![](https://i.giphy.com/kFgzrTt798d2w.gif)`
+
+#### Use multiline code snippets with proper color syntax
+
+This is how you do that (specify the syntax after the triple "\`" sign):
+
+```python
+def time_to_roll():
+    """Prints the essence of life""
+    print("https://i.giphy.com/kFgzrTt798d2w.gif")
+```
 
 ## Good examples
 
