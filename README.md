@@ -144,6 +144,7 @@ Just kidding :smiley:. We won't be digging them out from the lurky search engine
 - :shipit:, `:shipit:`, __squirrel__ - a sign, that one person sees the __PR__ fit of merging in. [The story about why that's a squirrel is long](https://www.quora.com/GitHub-What-is-the-significance-of-the-Ship-It-squirrel). Alternatives include :ship::it: and :sheep::it:.
 - __LGTM__ - _Let's Get That Money_ - OK, let's ship it. Usually used, when no real review is required, because the change is small and obvious.
 - __RFC__ - _Request For Comments_ (not github specific, but useful). Used when a draft of a design document is ready, and we talk on a much higher, abstract level of the idea described, more than the contents of the __PR__.
+- __TL;DR__ - _Too Long; Didn't Read_ - most often used to introduce a very short description of the essence of the text that follows.
 
 ## Good resources
 
