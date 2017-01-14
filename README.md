@@ -13,6 +13,13 @@ It takes elements from both [this post on github blog](https://github.com/blog/1
 
 - [Intro](#intro)
 - [Anatomy of a PR](#anatomy-of-a-pr)
+- [How to review other people's code](#how-to-review-other-peoples-code)
+- [How to receive criticism and be more awesome](#how-to-receive-criticism-and-be-more-awesome)
+- [Tips and tricks](#tips-and-tricks)
+- [Good examples](#good-examples)
+- [Bad examples](#bad-examples)
+- [Glossary](#glossary)
+- [Good resources](#good-resources)
 
 
 ## Intro
@@ -83,3 +90,30 @@ Descriptions are written in Markdown, so they support all the goodies, like list
 Reviewing other people's code doesn't have to be boring, and __the review shouldn't take more than 30 minutes__ (including checking out the code, running the tests and playing around). If it does, your __PR__ is probably too big.
 
 Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the `![](https://i.giphy.com/kFgzrTt798d2w.gif)` inline image tag, they can be really fun.
+
+
+
+## How to review other people's code
+
+
+## How to receive criticism and be more awesome
+
+
+## Tips and tricks
+
+
+## Good examples
+
+
+## Bad examples
+
+Just kidding :smiley:. We won't be digging them out from the lurky search engine results... Or will we ?
+
+
+## Glossary
+
+
+## Good resources
+
+- [https://github.com/thoughtbot/guides/tree/master/code-review](https://github.com/thoughtbot/guides/tree/master/code-review)
+- [https://github.com/blog/1943-how-to-write-the-perfect-pull-request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
