@@ -66,3 +66,20 @@ This is going to depend on the dynamics between the team members, but again, her
 - __remove the branch after the PR is merged in__ (click the button at the bottom of the __PR__)
 - __commit the changes in small, easily reversible increments__
 - __apply logic and behave your best__
+
+#### Description
+
+Descriptions are written in Markdown, so they support all the goodies, like lists, code blocks, quotes, links, inline images, emojis, headers, etc. __Use them__.
+
+> A __good description__ is one that you can dig out 6 months later, read, and:
+- understand __why the change was needed__, 
+- see clearly __what were the difficulties__,
+- understand __what decisions were made and why__,
+- and know __how to verify that it works__.
+
+
+#### Dialogue
+
+Reviewing other people's code doesn't have to be boring, and __the review shouldn't take more than 30 minutes__ (including checking out the code, running the tests and playing around). If it does, your __PR__ is probably too big.
+
+Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the `![](https://i.giphy.com/kFgzrTt798d2w.gif` inline image tag, they can be really fun.
