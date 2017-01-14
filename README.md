@@ -25,6 +25,30 @@ It will try to explain the best practices on creating PRs, reviewing them, commo
 
 ### What's a PR again ?
 
-`PR` is a `github`-specific concept which means `pull request`. You can [read on the official docs with plenty of screenshots](https://help.github.com/articles/about-pull-requests/), but essentially, 
+__PR__ is a `github`-specific concept which means `pull request`. You can [read on the official docs with plenty of screenshots](https://help.github.com/articles/about-pull-requests/), but essentially, 
 
 > __PR is an UI for merging changes from one branch to another__, that allows discussion, pasting silly gifs, commenting on particular lines, and by doing that, documenting the change and the thinking behind for later (think onboarding a new person, or just refreshing your own memory).
+
+### What code should go into a PR ?
+
+The scope of a __PR__ will depend vastly on the actual changes that you are implementing, the project etc, but here are some guidelines:
+
+#### Good PR
+
+- bundles together __changes which are truly connected__
+- __says exactly what it does__ on the tin
+- __contains enough info for someone new to pick it up later__ and understand what's going on
+- contains a __healthy dose of self-distance__
+- makes use of the all the goodies available (lists, screenshots, links, etc).
+
+#### Bad PR
+
+- has __no description and/or uninformative title__
+- __does more or less than it says on the tin__
+- handles __issues which are unrelated__
+
+### Building blocks of a PR
+
+#### A branch. A well-isolated one.
+
+__PR__s are made by taking one branch, that you want to merge into 
