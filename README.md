@@ -60,9 +60,9 @@ __PR__ s are made by taking a branch, that you want to merge into another one. S
 This is going to depend on the dynamics between the team members, but again, here's some stuff that tends to work well:
 
 - __give the branch a reasonable name.__ Some common practices include adding prefixes, for example:
-  - `fix/stale-connections-to-db
-  - `feature/add-paging`
-  - `experiment/reimplement-proxy-in-go`
+ - `fix/stale-connections-to-db`
+ - `feature/add-paging`
+ - `experiment/reimplement-proxy-in-go`
 - __remove the branch after the PR is merged in__ (click the button at the bottom of the __PR__)
 - __commit the changes in small, easily reversible increments__
 - __apply logic and behave your best__
