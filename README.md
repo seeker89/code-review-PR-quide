@@ -95,6 +95,19 @@ Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the
 
 ## How to review other people's code
 
+- __don't be a dick__. You're looking at someone's work, and you should assume they are capable and well-meaning. If they are a weaker developer than you are, wait until your code gets under a microscope of someone stronger than you.
+- __be humble__ - see point 1. The more you know, the more humble you get. 
+- __help people grow__. You are here to help them avoid mistakes in the future and improve the overall quality of the product. Don't prove you're smarter or know more. Lead by example.
+- __realise that most things are up for discussion__ and few are absolute truths. So don't present opinions as facts `supertest is better`. Use `I like supertest more, because it gives us A, B and C essentially for free`.
+- __suggest, don't demand__. `What do you think of using Mock class here ?` always beats `use Mock class`. `I'm wondering`, `I think`, `Wouldn't it be` are your best allies.
+- __use gifs and memes__ as long as that's your thing. They really have the potential to make everybody chill.
+- __remember that things get often personal__, because the work produces is seen as a direct product of a person's capabilities. So, again, suggest, don't criticise.
+- __when clarifying, use links__ to other repos, to a specific line. Cuts the communication required down very nicely.
+- __talk in real life__. But after you do, put a comment with a summary of what you decided on.
+- __be careful with sarcasm__. It goes well with some people, but often sounds much more harsh than intended, when read in isolation.
+- __use code snippets to be explicit, but not show off__, when applicable.
+
+You might have noticed, that the first three points are very similar. I wonder what that might mean ?
 
 ## How to receive criticism and be more awesome
 
