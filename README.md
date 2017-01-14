@@ -13,7 +13,7 @@ It takes elements from both [this post on github blog](https://github.com/blog/1
 
 - [Intro](#intro)
 - [Anatomy of a PR](#anatomy-of-a-pr)
-- [How to review other people's code](#how-to-review-other-poeples-code)
+- [How to review other people's code](#how-to-review-other-peoples-code)
 - [How to receive criticism and be more awesome](#how-to-receive-criticism-and-be-more-awesome)
 - [Tips and tricks](#tips-and-tricks)
 - [Good examples](#good-examples)
@@ -106,6 +106,8 @@ Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the
 
 
 ## Bad examples
+
+Just kidding :smiley:. We won't be digging them out from the lurky search engine results... Or will we ?
 
 
 ## Glossary
