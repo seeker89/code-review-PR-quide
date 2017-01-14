@@ -95,9 +95,29 @@ Don't think I'm a nerd, but with a good use of [gifs](http://giphy.com/) and the
 
 ## How to review other people's code
 
+- __don't be a dick__. You're looking at someone's work, and you should assume they are capable and well-meaning. If they are a weaker developer than you are, wait until your code gets under a microscope of someone stronger than you.
+- __be humble__ - see point 1. The more you know, the more humble you get. 
+- __help people grow__. You are here to help them avoid mistakes in the future and improve the overall quality of the product. Don't prove you're smarter or know more. Lead by example.
+- __realise that most things are up for discussion__ and few are absolute truths. So don't present opinions as facts `supertest is better`. Use `I like supertest more, because it gives us A, B and C essentially for free`.
+- __suggest, don't demand__. `What do you think of using Mock class here ?` always beats `use Mock class`. `I'm wondering`, `I think`, `Wouldn't it be` are your best allies.
+- __use gifs and memes__ as long as that's your thing. They really have the potential to make everybody chill.
+- __remember that things get often personal__, because the work produces is seen as a direct product of a person's capabilities. So, again, suggest, don't criticise.
+- __when clarifying, use links__ to other repos, to a specific line. Cuts the communication required down very nicely.
+- __talk in real life__. But after you do, put a comment with a summary of what you decided on.
+- __be careful with sarcasm__. It goes well with some people, but often sounds much more harsh than intended, when read in isolation.
+- __use code snippets to be explicit, but not show off__, when applicable.
+
+You might have noticed, that the first three points are very similar. I wonder what that might mean ?
 
 ## How to receive criticism and be more awesome
 
+- __do your homework__ by prepping the PR properly (description, how to test, what's important to look at). Imagine a Michelin star restaurant meal vs a stale hamburger. No one flocks to dealing with your stale hamburger.
+- __don't hide in the corner__. Hiding dodgy bits in a big __PR__ is not a working technique. Unless your goal is to enrage your colleagues.
+- __don't take things too personally__. The code review process is there to catch all the mistakes and shady shortcuts, so dont' be surprised/embarassed/upset, when it does its job. The review is of a piece of code, and that piece only, not your capacities as a person. 
+- __learn from each review__. Many people fall into a trap of thinking that they can't learn from a person below them on the paygrade. I personally think that everybody can teach me something, and it has always been true for me.
+- __be grateful for the review__. Someone's essentially giving out the info that makes them a stronger dev than you are, and you are free to take it and we as awesome the next time. How cool is that ?
+- __be responsive__. A stale __PR__ is like an old piece of pizza - still better than nothing, probably edible, but would have been much better two days ago.
+- __invite people to review your PR__. It takes time to do it, so encourage them to do it for you. Don't dread being wrong - that's the best way to be right the next time.
 
 ## Tips and tricks
 
