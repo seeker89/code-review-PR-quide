@@ -111,6 +111,13 @@ You might have noticed, that the first three points are very similar. I wonder w
 
 ## How to receive criticism and be more awesome
 
+- __do your homework__ by prepping the PR properly (description, how to test, what's important to look at). Imagine a Michelin star restaurant meal vs a stale hamburger. No one flocks to dealing with your stale hamburger.
+- __don't hide in the corner__. Hiding dodgy bits in a big __PR__ is not a working technique. Unless your goal is to enrage your colleagues.
+- __don't take things too personally__. The code review process is there to catch all the mistakes and shady shortcuts, so dont' be surprised/embarassed/upset, when it does its job. The review is of a piece of code, and that piece only, not your capacities as a person. 
+- __learn from each review__. Many people fall into a trap of thinking that they can't learn from a person below them on the paygrade. I personally think that everybody can teach me something, and it has always been true for me.
+- __be grateful for the review__. Someone's essentially giving out the info that makes them a stronger dev than you are, and you are free to take it and we as awesome the next time. How cool is that ?
+- __be responsive__. A stale __PR__ is like an old piece of pizza - still better than nothing, probably edible, but would have been much better two days ago.
+- __invite people to review your PR__. It takes time to do it, so encourage them to do it for you. Don't dread being wrong - that's the best way to be right the next time.
 
 ## Tips and tricks
 
