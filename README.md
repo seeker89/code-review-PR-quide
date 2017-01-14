@@ -140,6 +140,10 @@ Just kidding :smiley:. We won't be digging them out from the lurky search engine
 
 ## Glossary
 
+- __[WIP]__ (also WIP, WiP) - _Work in Progress_. Means, that the __PR__ is not yet in its final form, but it's already been created to track comments, links, and get opinions. Often a better alternative to trying to keep a branch private, until you consider it ready to ship, because early suggestions might prevent mistakes.
+- :shipit:, `:shipit:`, __squirrel__ - a sign, that one person sees the __PR__ fit of merging in. [The story about why that's a squirrel is long](https://www.quora.com/GitHub-What-is-the-significance-of-the-Ship-It-squirrel). Alternatives include :ship::it: and :sheep::it:.
+- __LGTM__ - _Let's Get That Money_ - OK, let's ship it. Usually used, when no real review is required, because the change is small and obvious.
+- __RFC__ - _Request For Comments_ (not github specific, but useful). Used when a draft of a design document is ready, and we talk on a much higher, abstract level of the idea described, more than the contents of the __PR__.
 
 ## Good resources
 
