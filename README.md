@@ -70,6 +70,8 @@ This is going to depend on the dynamics between the team members, but again, her
 - __commit the changes in small, easily reversible increments__
 - __apply logic and behave your best__
 
+If you're not 100% confident with git branches, make sure you check out [this awesome tutorial](http://learngitbranching.js.org/).
+
 #### Description
 
 Descriptions are written in Markdown, so they support all the goodies, like lists, code blocks, quotes, links, inline images, emojis, headers, etc. __Use them__.
@@ -163,3 +165,5 @@ Just kidding :smiley:. We won't be digging them out from the lurky search engine
 
 - [https://github.com/thoughtbot/guides/tree/master/code-review](https://github.com/thoughtbot/guides/tree/master/code-review)
 - [https://github.com/blog/1943-how-to-write-the-perfect-pull-request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
+- [https://guides.github.com/](https://guides.github.com/)
+- [http://learngitbranching.js.org/](http://learngitbranching.js.org/)
