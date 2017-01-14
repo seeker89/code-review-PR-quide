@@ -82,6 +82,10 @@ Descriptions are written in Markdown, so they support all the goodies, like list
 - understand __what decisions were made and why__,
 - and know __how to verify that it works__.
 
+With that goal in mind, it will be tough to go wrong.
+
+Please make sure you also read [this post from github people](https://github.com/blog/1943-how-to-write-the-perfect-pull-request).
+
 
 #### Dialogue
 
