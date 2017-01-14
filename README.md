@@ -114,3 +114,6 @@ Just kidding :smiley:. We won't be digging them out from the lurky search engine
 
 
 ## Good resources
+
+- [https://github.com/thoughtbot/guides/tree/master/code-review](https://github.com/thoughtbot/guides/tree/master/code-review)
+- [https://github.com/blog/1943-how-to-write-the-perfect-pull-request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
